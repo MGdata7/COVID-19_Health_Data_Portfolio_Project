@@ -1,3 +1,5 @@
+--In this project, I will extract and analyse COVID-19 vaccination, case, and death data using SQL.
+
 SELECT * 
 FROM CovidDeaths$
 ORDER BY 3,4
