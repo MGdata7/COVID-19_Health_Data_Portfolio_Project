@@ -1,4 +1,4 @@
---In this project, I will extract and analyse COVID-19 vaccination, case, and death data using SQL.
+--In this project, I will extract and analyse COVID-19 vaccination, case, and death data using SQL. The data source is updated daily at https://ourworldindata.org/covid-deaths.
 
 SELECT * 
 FROM CovidDeaths$
